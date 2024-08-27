@@ -6,7 +6,7 @@ Description: This package provides repository information for the appropriate
 Authors@R: c(
     person("Martin", "Morgan", email = "martin.morgan@roswellpark.org",
         role = "aut"),
-    person("Marcel", "Ramos", email = "marcel.ramos@roswellpark.org",
+    person("Marcel", "Ramos", email = "marcel.ramos@sph.cuny.edu",
         role = "ctb"),
     person("Bioconductor", "Package Maintainer",
         email  = "maintainer@bioconductor.org",
